@@ -1,0 +1,28 @@
+.search-results {
+  max-height: 400px;
+  overflow-y: auto;
+}
+
+.result-section {
+  padding: 10px 0;
+}
+
+.section-title {
+  padding: 0 15px;
+  font-size: 14px;
+  color: #888;
+  margin-bottom: 8px;
+}
+
+.no-results {
+  padding: 15px;
+  text-align: center;
+  color: #888;
+}
+
+/* Responsive styles */
+@media (max-width: 480px) {
+  .search-results {
+    max-height: calc(100vh - 70px);
+  }
+}
