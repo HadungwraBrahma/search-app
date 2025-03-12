@@ -92,7 +92,7 @@ search-app/
 
 ### Dark Mode
 
-<img src="/screenshots/light-mode.png" alt="Alt text">
+<img src="/screenshots/dark-mode.png" alt="Alt text">
 
 ### Mobile View
 
