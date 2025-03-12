@@ -116,7 +116,7 @@ Click the dark mode toggle button to switch between light and dark themes. The b
 ## Project Structure Explanation
 
 - **components/**: Contains all React components broken down into smaller, reusable pieces
-- **public/assets/logos/**: Stock logo images used in the application
+- **src/assets/logos/**: Stock logo images used in the mock stock data
 - **screenshots/**: Images used in this README file
 - **App.js**: Main application component that renders the SearchBar
 - **main.js**: Entry point of the React application
