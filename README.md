@@ -119,7 +119,7 @@ Click the dark mode toggle button to switch between light and dark themes. The b
 - **public/assets/logos/**: Stock logo images used in the application
 - **screenshots/**: Images used in this README file
 - **App.js**: Main application component that renders the SearchBar
-- **index.js**: Entry point of the React application
+- **main.js**: Entry point of the React application
 
 
 By [Hadungwra Brahma](https://github.com/HadungwraBrahma)
