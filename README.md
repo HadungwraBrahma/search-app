@@ -11,7 +11,6 @@ A React-based search component that allows users to search for stocks by ticker 
 - Dark mode toggle with day/night emoji indicators
 - Keyboard shortcuts (Ctrl+K / Cmd+K to open search)
 - Responsive design for all screen sizes
-- Logo display for popular stocks
 
 ## Project Setup Instructions
 
